@@ -1,6 +1,6 @@
 import Accordion from "./Components/Accordion";
 import Header from "./Components/Header";
-import { data } from "../data/data";
+import { data } from "./data/data";
 import { useState } from "react";
 
 function App() {
